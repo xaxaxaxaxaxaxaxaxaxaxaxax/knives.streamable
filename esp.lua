@@ -1,9 +1,4 @@
--- local Settings = {
---    Box_Color = Color3.fromRGB(255, 255, 255),
---    Box_Thickness = 2,
- --   Team_Check = false,
- --   Team_Color = false
--- }
+
 
 
 local Space = game:GetService("Workspace")
